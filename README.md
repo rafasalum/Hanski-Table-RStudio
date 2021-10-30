@@ -8,6 +8,7 @@ library(tidyr)
 library(geosphere)
 
 table4a<- read.table(file, header = TRUE, sep = "", dec = ".")
+
 dist.matrix <- distm(cbind(table4a$XXX, table4a$YYY))
 
 d<- dis.matri^2
