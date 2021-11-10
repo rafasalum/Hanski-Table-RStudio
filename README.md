@@ -1,6 +1,6 @@
 # Hanski-Table
 Creating table Hanski in RStudio
-Hanski index - from from multiple point by using coodinaes UTM XXX and YYY for each point in *.csv
+Hanski index - from from multiple point by using coordinates UTM XXX and YYY for each point in *.csv
 
 
 library(rgdal)
